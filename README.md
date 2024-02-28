@@ -39,6 +39,8 @@ n == height.length
 0 <= height[i] <= 104
 ```
 **How to run the function**
+```
 index.ts has the typescript code.
 index.js has the compiled version of the code.
 Directly use index.js to run and check the output.
+```
